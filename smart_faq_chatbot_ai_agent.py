@@ -608,5 +608,4 @@ if __name__ == "__main__":
     evaluate_with_visualization()
 
     print("\n All demonstrations completed successfully!")
-    print(" Take screenshots of the visualizations for your PPT!")
     print("="*70)
